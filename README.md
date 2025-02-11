@@ -1,4 +1,4 @@
-# AWS_Devops
+# Connecting Ec2 with S3 & hosting a page index.html
 
 **Step 1: Upload index.html to S3**
 Go to AWS Console → Open S3 service.
